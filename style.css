@@ -115,6 +115,7 @@ span{
 .content-2, .content-3, .content-4{
     margin: 15px;
 }
+
 /* Styling About */
 .container-3{
     height: auto;
@@ -144,6 +145,8 @@ span{
     line-height: 35px;
 
 }
+
+/* Styling Portofolio */
 .portofolio{
     width: 100%;
     height: auto;
@@ -207,6 +210,8 @@ span{
     transition: 500ms;
     padding: 10px;
 }
+
+/* Styling Blog */
 .blog{
     height: auto;
     width: 100%;
